@@ -151,7 +151,7 @@
     "  \n",
     "\n",
     "plt.subplots_adjust(hspace=0.55)\n",
-    "plt.savefig(\"bayes.png\", bbox_inches='tight')\n",
+    "plt.savefig(\"ajuste_bayes-mcmc.png\", bbox_inches='tight')\n",
     "\n",
     "\n",
     "\n",
